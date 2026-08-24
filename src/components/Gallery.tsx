@@ -9,14 +9,14 @@ const portfolioItems = [
     category: "实习与实践",
     date: "2021.06 - 2021.07",
     title: "字节跳动 AI 课实习纪实",
-    coverImage: "/gallery-1.jpg",
+    coverImage: "/tiktok2.jpg",
     content: [
       "在字节跳动担任 AI 课学科支持实习生期间，我深入参与了多平台教学配课与课程内容的审核工作。这不仅要求对知识点有精确的把握，还需要具备系统化的框架搭建能力。",
       "依托 CMS 内容管理系统，我梳理了配课题组、讲解容器等核心组件，实现了课程内容的模块化搭建。从建立工作台账到同步跟进优化整改，这段经历极大地锻炼了我的工程化思维与多任务推进能力。"
     ],
     gallery: [
-      "/gallery-4.jpg",
-      "/gallery-5.jpg"
+      "/tiktok1.jpg",
+      "/tiktok3.jpg"
     ]
   },
   {
@@ -24,26 +24,38 @@ const portfolioItems = [
     category: "学术与交流",
     date: "2021 - 2025",
     title: "学术会议与科研探讨",
-    coverImage: "/gallery-2.jpg",
+    coverImage: "/gallery-6.jpg",
     content: [
       "在硕博连读期间，我多次参与国内外的学术会议，与领域内的专家学者进行深入交流。我的研究聚焦于多因子耦合系统，探讨干旱传播与生态响应的复杂机制。",
       "通过这些学术交流，我不断拓宽研究视野，将物理机制转化为可量化、可优化的技术方案，为后续的专利申请和顶级期刊论文发表奠定了坚实的基础。"
     ],
-    gallery: []
+    gallery: [
+        "/gallery-5.jpg"
+    ]
   },
   {
     id: "team",
     category: "团队与领导力",
     date: "2022.04 - 2023.05",
     title: "党支部与团队建设",
-    coverImage: "/gallery-3.jpg",
+    coverImage: "/drhd1.jpg",
     content: [
       "担任水利研究生第三党支部书记期间，我负责统筹支部的日常管理与各项活动的策划执行。我们不仅组织了多次内部学习，还牵头联合多个学院和支部开展了大型主题活动。",
       "跨部门的沟通协调、资源的统筹分配，让我在专业科研之外，培养了卓越的团队管理与组织能力，保障各项工作闭环执行。"
     ],
     gallery: [
-      "/gallery-4.jpg",
-      "/gallery-5.jpg"
+      "/drhd2.jpg",
+      "/drhd3.jpg",
+      "/drhd4.jpg",
+      "/drhd5.jpg",
+      "/drhd6.jpg",
+      "/drhd7.jpg",
+      "/drhd8.jpg",
+      "/drhd9.jpg",
+      "/drhd10.jpg",
+      "/drhd11.jpg",
+      "/drhd12.jpg",
+      "/drhd13.jpg",
     ]
   },
   {
