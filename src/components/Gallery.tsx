@@ -71,7 +71,7 @@ const portfolioItems = [
     id: "social-volunteer",
     category: "社会实践",
     date: "2018 - 2025",
-    title: "国家重大活动与校园公益志愿实践纪实",
+    title: "国家重大活动服务与志愿实践纪实",
     coverImage: "/shsj1.jpg",
     content: [
     "一、重大活动保障与高端会务服务",

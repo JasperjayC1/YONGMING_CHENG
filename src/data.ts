@@ -4,7 +4,7 @@ export const personalInfo: PersonalInfo = {
   name: "程泳铭",
   enName: "Cheng Yongming",
   title: "水利工程博士在读 / 数据建模与因果分析研究者",
-  email: "s20213091740@cau.edu.cn",
+  email: "1121547761@qq.com",
   phone: "+86 18501176799",
   github: "https://github.com/JasperjayC1",
   researchgate: "https://www.researchgate.net/profile/Cheng-Yongming",
