@@ -33,7 +33,6 @@ const Gallery = () => {
         ))}
       </div>
       <p className="text-center text-sm text-neutral-400 mt-8">
-        * 以上图片为示例，可替换为您真实的实习、活动照片
       </p>
     </section>
   );
