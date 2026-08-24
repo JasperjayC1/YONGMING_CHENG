@@ -196,7 +196,6 @@ export const publications: PublicationInfo[] = [
     rank: "卓越期刊",
     link: "https://www.ecologica.cn/stxb/article/abstract/stxb202312052646"
   },
-
   {
     authors: "Wang Xuanxuan, Cheng Yongming, Liu Liu*, Niu Qiankun, Huang Guanhua",
     title: "Improved understanding of how irrigated area expansion enhances precipitation recycling by land–atmosphere coupling",
@@ -205,7 +204,6 @@ export const publications: PublicationInfo[] = [
     rank: "中科院1区",
     link: "https://doi.org/10.1016/j.agwat.2024.108904"
   },
-
   {
     authors: "Cheng Yongming, Liu Liu*, Cheng Lei, Fa Keyu, Liu Xingcai, Huo Zailin, Huang Guanhua",
     title: "A shift in the dominant role of atmospheric vapor pressure deficit and soil moisture on vegetation greening in China",
