@@ -206,7 +206,6 @@ export const publications: PublicationInfo[] = [
     link: "https://doi.org/10.1016/j.agwat.2024.108904"
   },
 
-[
   {
     authors: "Cheng Yongming, Liu Liu*, Cheng Lei, Fa Keyu, Liu Xingcai, Huo Zailin, Huang Guanhua",
     title: "A shift in the dominant role of atmospheric vapor pressure deficit and soil moisture on vegetation greening in China",
@@ -359,7 +358,6 @@ export const publications: PublicationInfo[] = [
     rank: "EI期刊",
     link: "https://dx.doi.org/10.11975/j.issn.1002-6819.2022.06.019"
   }
-
 ];
 
 export const skills = {
