@@ -61,15 +61,30 @@ const portfolioItems = [
   {
     id: "honors",
     category: "专利与荣誉",
-    date: "2017 - 2025",
+    date: "2021 - 2025",
     title: "发明专利与奖学金证书",
-    coverImage: "/gallery-4.jpg",
+    coverImage: "/zs1.jpg",
     content: [
       "在学术和实践的双重驱动下，我获得了国家奖学金、“中国茅台·国之栋梁”本硕博优才计划、国家建设高水平大学公派研究生项目资助等多项殊荣。",
       "此外，在复杂系统建模与阈值识别领域，我主导申请并拥有两项授权发明专利，这是对我将科研理论转化为实际工程方案能力的最佳认可。"
     ],
     gallery: [
-      "/gallery-5.jpg"
+      "/zs17.jpg",
+      "/zs2.jpg",
+      "/zs3.jpg",
+      "/zs4.jpg",
+      "/zs5.jpg",
+      "/zs6.jpg",
+      "/zs7.jpg",
+      "/zs8.jpg",
+      "/zs9.jpg",
+      "/zs10.jpg",
+      "/zs11.jpg",
+      "/zs12.jpg",
+      "/zs13.jpg",
+      "/zs14.jpg",
+      "/zs15.jpg",
+      "/zs16.jpg",
     ]
   }
 ];
@@ -197,7 +212,7 @@ const Gallery = () => {
                   {selectedItem.gallery && selectedItem.gallery.length > 0 && (
                     <div className="pt-8 border-t border-neutral-100">
                       <h4 className="flex items-center gap-2 text-sm font-bold text-neutral-900 uppercase tracking-wider mb-8">
-                        <ImageIcon size={18} /> 更多影像资料
+                        <ImageIcon size={18} /> 
                       </h4>
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                         {selectedItem.gallery.map((img, idx) => (
