@@ -6,9 +6,9 @@ import { X, ArrowRight, Image as ImageIcon } from "lucide-react";
 const portfolioItems = [
   {
     id: "internship",
-    category: "实习与实践",
+    category: "实习经历",
     date: "2021.06 - 2021.07",
-    title: "字节跳动 AI 课实习纪实",
+    title: "字节跳动AI课学科支持实习生",
     coverImage: "/tiktok2.jpg",
     content: [
       "在字节跳动担任 AI 课学科支持实习生期间，我深入参与了多平台教学配课与课程内容的审核工作。这不仅要求对知识点有精确的把握，还需要具备系统化的框架搭建能力。",
@@ -40,7 +40,7 @@ const portfolioItems = [
     id: "team",
     category: "团队与领导力",
     date: "2022.04 - 2023.05",
-    title: "党支部与团队建设",
+    title: "党团工作与组织管理实践",
     coverImage: "/drhd1.jpg",
     content: [
       "担任水利研究生第三党支部书记期间，我负责统筹支部的日常管理与各项活动的策划执行。我们不仅组织了多次内部学习，还牵头联合多个学院和支部开展了大型主题活动。",
@@ -72,7 +72,7 @@ const portfolioItems = [
     category: "社会实践",
     date: "2018 - 2025",
     title: "国家重大活动与校园公益志愿实践纪实",
-    coverImage: "/volunteer-cover.jpg",
+    coverImage: "/shsj1.jpg",
     content: [
     "一、重大活动保障与高端会务服务",
     "参与中国抗日战争暨世界反法西斯战争胜利80周年纪念活动，承担现场人员协调与流程衔接工作，保障大型集体活动有序开展；在中国农业大学建校120周年高质量发展大会上，负责副厅级领导的一对一会务保障，全流程完成会前对接、现场服务与会后跟进，确保参会工作闭环落地。此外，还曾参与学院60周年院庆、迎新等大型活动志愿服务，积累了丰富的大型现场组织与会务协调经验。",
@@ -85,13 +85,8 @@ const portfolioItems = [
 
     ],
     gallery: [
-      "/volunteer-antifascist.jpg",
-      "/volunteer-cau120.jpg",
-      "/volunteer-hubei.jpg",
-      "/volunteer-film.jpg",
-      "/volunteer-highschool.jpg",
-      "/volunteer-public.jpg",
-      "/volunteer-campus.jpg"
+      "/shsj2.jpg",
+      "/shsj3.jpg",
     ]
   },
   {
