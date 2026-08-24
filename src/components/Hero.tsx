@@ -74,7 +74,8 @@ const Hero = () => {
             <img 
               src="/avatar.jpg" 
               alt="Portrait" 
-              className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+              className="w-full h-full object-cover transition-all duration-700"
+              // className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />
             <div className="absolute inset-0 ring-1 ring-inset ring-black/10 rounded-2xl"></div>
           </div>

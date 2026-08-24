@@ -6,7 +6,7 @@ const Gallery = () => {
     { src: "/gallery-1.jpg", title: "字节跳动实习纪实" },
     { src: "/gallery-2.jpg", title: "学术会议交流" },
     { src: "/gallery-3.jpg", title: "团队建设与协作" },
-    { src: "/gallery-3.jpg", title: "项目现场" },
+    { src: "/gallery-4.jpg", title: "项目现场" },
   ];
 
   return (
