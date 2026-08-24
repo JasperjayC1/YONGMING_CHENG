@@ -6,8 +6,8 @@ export const personalInfo: PersonalInfo = {
   title: "水利工程博士在读 / 数据建模与因果分析研究者",
   email: "s20213091740@cau.edu.cn",
   phone: "+86 18501176799",
-  github: "https://github.com",
-  researchgate: "https://researchgate.net",
+  github: "https://github.com/JasperjayC1",
+  researchgate: "https://www.researchgate.net/profile/Cheng-Yongming",
   about: "精通多源数据融合、因果推断与不确定性分析，独立完成复杂系统建模与阈值识别。具备从海量数据中提炼规律并驱动决策的工程化思维。长期研究多因子耦合系统（干旱传播、生态响应），擅长构建多变量联合诊断框架，将物理机制转化为可量化、可优化的技术方案。拥有两项授权发明专利，能快速切入业务痛点并提出系统性解法。"
 };
 
