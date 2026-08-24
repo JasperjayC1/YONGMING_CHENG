@@ -72,7 +72,7 @@ const Hero = () => {
           <div className="relative w-72 h-96 md:w-80 md:h-[28rem] rounded-2xl overflow-hidden shadow-2xl bg-neutral-200">
             {/* Placeholder for Profile Photo */}
             <img 
-              src="H:\工作\简历\untitled\public\avatar.jpg" 
+              src="/avatar.jpg" 
               alt="Portrait" 
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />
