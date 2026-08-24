@@ -3,10 +3,10 @@ import React from "react";
 const Gallery = () => {
   // Placeholder images - can be replaced with real ones
   const photos = [
-    { src: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800", title: "字节跳动实习纪实" },
-    { src: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=800", title: "学术会议交流" },
-    { src: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800", title: "团队建设与协作" },
-    { src: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800", title: "项目现场" },
+    { src: "H:\\工作\\简历\\untitled\\public\\gallery-1.jpg", title: "字节跳动实习纪实" },
+    { src: "H:\\工作\\简历\\untitled\\public\\gallery-2.jpg", title: "学术会议交流" },
+    { src: "H:\\工作\\简历\\untitled\\public\\gallery-3.jpg", title: "团队建设与协作" },
+    { src: "H:\\工作\\简历\\untitled\\public\\gallery-4.jpg", title: "项目现场" },
   ];
 
   return (
