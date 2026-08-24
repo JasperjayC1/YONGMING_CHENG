@@ -108,12 +108,21 @@ export const projects: ProjectInfo[] = [
     ]
   },
   {
-    title: "国家自然科学基金面上项目 (生态水文)",
+    title: "国家自然科学基金面上项目",
     role: "核心参与",
     date: "2024.1 - 2027.12",
     desc: [
       "负责生态水文大数据挖掘与归因分析，依托多源时序数据集，通过统计回归、交互效应分析方法，完成量化表征农业-水-生态正向链式传导全过程；",
       "识别农业-水-生态链式传导的关键驱动因素，量化各要素对生态系统链式响应的贡献度，输出标准化数据分析结论与图表成果。"
+    ]
+  },
+    {
+    title: "国家自然科学基金面上项目",
+    role: "核心参与",
+    date: "2021.1 - 2023.12",
+    desc: [
+      "聚焦干旱驱动机制智能识别，利用Python和R语言完成海量观测数据预处理与统计建模；",
+      "通过因子归因、敏感性分析锁定核心驱动变量，完成多情景数据对比分析，支撑项目机理结论落地。"
     ]
   },
   {
@@ -133,7 +142,25 @@ export const projects: ProjectInfo[] = [
       "整合多源监测数据集，运用数理统计、物理机制模型结合深度学习算法完成暴雨-洪水响应规律分析；",
       "批量处理长序列观测数据，完成数据校验、对比建模与结果复盘，输出项目仿真分析报告。"
     ]
-  }
+  },
+  {
+    title: "内蒙古自治区科技项目",
+    role: "参与",
+    date: "2022.12 - 2024.12",
+    desc: [
+      "负责区域水循环大数据处理与趋势挖掘，依托MATLAB完成长时序数据规整、统计分析与趋势拟合；",
+      "辨析多驱动因子的影响权重，完成数据可视化与研究结论汇总。"
+    ]
+  },
+    {
+    title: "《人工智能在水科学中的应用》数字教材",
+    role: "核心编撰",
+    date: "2025.7 - 2025.12",
+    desc: [
+      "参与8校联合数字教材开发，负责AI建模、智能数据分析相关章节内容编撰；",
+      "梳理神经网络、数据挖掘通用技术体系，规整教学素材与案例，完成数字化内容搭建与校对。"
+    ]
+  },
 ];
 
 export const publications: PublicationInfo[] = [
@@ -168,7 +195,171 @@ export const publications: PublicationInfo[] = [
     year: "2025",
     rank: "卓越期刊",
     link: "https://www.ecologica.cn/stxb/article/abstract/stxb202312052646"
+  },
+
+  {
+    authors: "Wang Xuanxuan, Cheng Yongming, Liu Liu*, Niu Qiankun, Huang Guanhua",
+    title: "Improved understanding of how irrigated area expansion enhances precipitation recycling by land–atmosphere coupling",
+    journal: "Agricultural Water Management",
+    year: "2024",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.agwat.2024.108904"
+  },
+
+[
+  {
+    authors: "Cheng Yongming, Liu Liu*, Cheng Lei, Fa Keyu, Liu Xingcai, Huo Zailin, Huang Guanhua",
+    title: "A shift in the dominant role of atmospheric vapor pressure deficit and soil moisture on vegetation greening in China",
+    journal: "Journal of Hydrology",
+    year: "2022",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.jhydrol.2022.128680"
+  },
+  {
+    authors: "Cheng Yongming, An Qiang, Liu Liu*, Li Hao, Huang Guanhua",
+    title: "Spatially distinct drought patterns and influencing factors across China: a machine learning approach with a comprehensive index",
+    journal: "Ecological Indicators",
+    year: "2025",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.ecolind.2025.114170"
+  },
+  {
+    authors: "Cheng Yongming, An Qiang, Liu Liu*, Zhang Yuxiang, Li Hao, Liu Xingcai, Huang Guanhua",
+    title: "Latitudinal and seasonal asymmetry in land surface temperature responses to vegetation greening across China",
+    journal: "Earth’s Future",
+    year: "2025",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1029/2025EF006385"
+  },
+  {
+    authors: "程泳铭, 刘浏, 程湫雅, 徐宗学, 安强, 王宣宣",
+    title: "黄河上中游植被动态及其对干湿转换的响应",
+    journal: "生态学报",
+    year: "2025",
+    rank: "卓越期刊",
+    link: "https://www.ecologica.cn/stxb/article/abstract/stxb202312052646"
+  },
+  {
+    authors: "Wang Xuanxuan, Cheng Yongming, Liu Liu*, Niu Qiankun, Huang Guanhua",
+    title: "Improved understanding of how irrigated area expansion enhances precipitation recycling by land–atmosphere coupling",
+    journal: "Agricultural Water Management",
+    year: "2024",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.agwat.2024.108904"
+  },
+  {
+    authors: "Zhang Yujian, Cheng Yongming, Liu Liu*, An Qiang, Huang Guanhua",
+    title: "Emerging structural overshoot drought triggered by vegetation greening in the Yellow River Basin",
+    journal: "Agricultural Water Management",
+    year: "2026",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.agwat.2026.110613"
+  },
+  {
+    authors: "Sun Hanshi, Cheng Yongming, Liu Liu, An Qiang, Zhang Hongbo",
+    title: "Water deficit is increasingly limiting vegetation productivity in China",
+    journal: "Ecological Indicators",
+    year: "2025",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.ecolind.2025.113775"
+  },
+  {
+    authors: "Sun Hanshi, Cheng Yongming, An Qiang, Liu Liu",
+    title: "Evolution and Mechanism Analysis of Terrestrial Ecosystems in China with Respect to Gross Primary Productivity",
+    journal: "Land",
+    year: "2024",
+    rank: "中科院2区",
+    link: "https://doi.org/10.3390/land13091346"
+  },
+  {
+    authors: "Zhou Xueting, Cheng Yongming, Liu Liu, Huang Yuqi, Sun hanshi",
+    title: "Significant increases in water vapor pressure correspond with climate warming globally",
+    journal: "Water",
+    year: "2023",
+    rank: "中科院2区",
+    link: "https://doi.org/10.3390/w15183219"
+  },
+  {
+    authors: "Zhang Yixuan, Liu Liu*, Cheng Yongming, Kang Shaozhong, Li Hao, Wang Lixin, Shi Yu, Liu Xingcai, Cheng Lei",
+    title: "Intensified Structural Overshoot Aggravates Drought Impacts on Dryland Ecosystems",
+    journal: "Earth’s Future",
+    year: "2024",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1029/2023EF003977"
+  },
+  {
+    authors: "An Qiang, Liu Liu*, Cheng Yongming, Liu Jing, Staal Arie, Huang Guanhua",
+    title: "Unraveling the role of moisture recycling in water consumption across different ecosystems in China",
+    journal: "Journal of Hydrology",
+    year: "2025",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.jhydrol.2025.134020"
+  },
+  {
+    authors: "Wang Tao, Liu Jingzhe, Cheng Yongming, Duan Jingjing, Zhao Yifei, Zhao Jing, Wang Peiling, Zhai Jiaqi*",
+    title: "Adaptive rolling runoff forecasting model: Combining multi-source correlated sequences and extreme value encoding",
+    journal: "Journal of Hydrology: Regional Studies",
+    year: "2025",
+    rank: "中科院2区",
+    link: "https://doi.org/10.1016/j.ejrh.2025.102241"
+  },
+  {
+    authors: "An Qiang, Staal Arie, Liu Liu*, Cheng Yongming, Liu jing, Huang Guanhua",
+    title: "Crops Feed Rain to Drylands in Northwest China",
+    journal: "Earth’s Future",
+    year: "2024",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1029/2024EF004791"
+  },
+  {
+    authors: "An Qiang, Liu Liu*, Wang Lixin, Yang Kun, Cheng Yongming, Liu Jing, Huang Guanhua",
+    title: "Contribution of moisture recycling to water availability in China",
+    journal: "Water Resources Research",
+    year: "2025",
+    rank: "中科院2区",
+    link: "https://doi.org/10.1029/2024WR038054"
+  },
+  {
+    authors: "An Qiang, Liu Liu*, Wang Lixin, Staal Arie, Cheng Yongming, Liu jing, Huang Guanhua",
+    title: "Spatiotemporal contributions of advected and recycled moisture to water resource variability in China",
+    journal: "Water Resources Research",
+    year: "2026",
+    rank: "中科院2区",
+    link: "https://doi.org/10.1029/2025WR041192"
+  },
+  {
+    authors: "Lu Dehao, Liu Liu*, Bai Yanling, An Qiang, Cheng Yongming, Huang Guanhua",
+    title: "Deficit irrigation alleviates the increase in soil salinity content in saline-alkali regions of China and improves irrigation water productivity: A meta-analysis",
+    journal: "Agricultural Water Management",
+    year: "2025",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.agwat.2025.109872"
+  },
+  {
+    authors: "An Qiang, Liu Liu*, Staal Arie, Yang Kun, Cheng Yongming, Liu Jing, Huang Guanhua",
+    title: "Land cover changes redistribute China’s water resources through atmospheric moisture recycling",
+    journal: "Earth’s Future",
+    year: "2025",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1029/2024EF005565"
+  },
+  {
+    authors: "Zhang Wenqing, Liu Liu*, Li Xiuping, Cheng Lei, Cheng Yongming, Li Hao",
+    title: "Intensified response of extreme precipitation to rising temperature over the Tibetan Plateau from CMIP6 multi-model ensembles",
+    journal: "Journal of Hydrology",
+    year: "2024",
+    rank: "中科院1区",
+    link: "https://doi.org/10.1016/j.jhydrol.2024.131397"
+  },
+  {
+    authors: "牛乾坤, 刘浏, 黄冠华, 程湫雅, 程泳铭",
+    title: "基于GEE和机器学习的河套灌区复杂种植结构识别",
+    journal: "农业工程学报",
+    year: "2022",
+    rank: "EI期刊",
+    link: "https://dx.doi.org/10.11975/j.issn.1002-6819.2022.06.019"
   }
+
 ];
 
 export const skills = {
