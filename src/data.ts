@@ -205,46 +205,6 @@ export const publications: PublicationInfo[] = [
     link: "https://doi.org/10.1016/j.agwat.2024.108904"
   },
   {
-    authors: "Cheng Yongming, Liu Liu*, Cheng Lei, Fa Keyu, Liu Xingcai, Huo Zailin, Huang Guanhua",
-    title: "A shift in the dominant role of atmospheric vapor pressure deficit and soil moisture on vegetation greening in China",
-    journal: "Journal of Hydrology",
-    year: "2022",
-    rank: "中科院1区",
-    link: "https://doi.org/10.1016/j.jhydrol.2022.128680"
-  },
-  {
-    authors: "Cheng Yongming, An Qiang, Liu Liu*, Li Hao, Huang Guanhua",
-    title: "Spatially distinct drought patterns and influencing factors across China: a machine learning approach with a comprehensive index",
-    journal: "Ecological Indicators",
-    year: "2025",
-    rank: "中科院1区",
-    link: "https://doi.org/10.1016/j.ecolind.2025.114170"
-  },
-  {
-    authors: "Cheng Yongming, An Qiang, Liu Liu*, Zhang Yuxiang, Li Hao, Liu Xingcai, Huang Guanhua",
-    title: "Latitudinal and seasonal asymmetry in land surface temperature responses to vegetation greening across China",
-    journal: "Earth's Future",
-    year: "2025",
-    rank: "中科院1区",
-    link: "https://doi.org/10.1029/2025EF006385"
-  },
-  {
-    authors: "程泳铭, 刘浏, 程湫雅, 徐宗学, 安强, 王宣宣",
-    title: "黄河上中游植被动态及其对干湿转换的响应",
-    journal: "生态学报",
-    year: "2025",
-    rank: "卓越期刊",
-    link: "https://www.ecologica.cn/stxb/article/abstract/stxb202312052646"
-  },
-  {
-    authors: "Wang Xuanxuan, Cheng Yongming, Liu Liu*, Niu Qiankun, Huang Guanhua",
-    title: "Improved understanding of how irrigated area expansion enhances precipitation recycling by land–atmosphere coupling",
-    journal: "Agricultural Water Management",
-    year: "2024",
-    rank: "中科院1区",
-    link: "https://doi.org/10.1016/j.agwat.2024.108904"
-  },
-  {
     authors: "Zhang Yujian, Cheng Yongming, Liu Liu*, An Qiang, Huang Guanhua",
     title: "Emerging structural overshoot drought triggered by vegetation greening in the Yellow River Basin",
     journal: "Agricultural Water Management",
