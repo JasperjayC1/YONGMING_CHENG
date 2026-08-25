@@ -59,7 +59,7 @@ const portfolioItems = [
       "/drhd10.jpg",
       "/drhd11.jpg",
       "/drhd15.jpg",
-      "/drhd16.jpg",
+      "/drhd16.png",
       "/drhd18.jpg",
       "/drhd19.jpg",
       "/drhd21.jpg",
