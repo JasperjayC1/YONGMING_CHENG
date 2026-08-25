@@ -183,7 +183,7 @@ export const publications: PublicationInfo[] = [
   {
     authors: "Cheng Yongming, An Qiang, Liu Liu*, Zhang Yuxiang, Li Hao, Liu Xingcai, Huang Guanhua",
     title: "Latitudinal and seasonal asymmetry in land surface temperature responses to vegetation greening across China",
-    journal: "Earth’s Future",
+    journal: "Earth's Future",
     year: "2025",
     rank: "中科院1区",
     link: "https://doi.org/10.1029/2025EF006385"
@@ -223,7 +223,7 @@ export const publications: PublicationInfo[] = [
   {
     authors: "Cheng Yongming, An Qiang, Liu Liu*, Zhang Yuxiang, Li Hao, Liu Xingcai, Huang Guanhua",
     title: "Latitudinal and seasonal asymmetry in land surface temperature responses to vegetation greening across China",
-    journal: "Earth’s Future",
+    journal: "Earth's Future",
     year: "2025",
     rank: "中科院1区",
     link: "https://doi.org/10.1029/2025EF006385"
@@ -279,7 +279,7 @@ export const publications: PublicationInfo[] = [
   {
     authors: "Zhang Yixuan, Liu Liu*, Cheng Yongming, Kang Shaozhong, Li Hao, Wang Lixin, Shi Yu, Liu Xingcai, Cheng Lei",
     title: "Intensified Structural Overshoot Aggravates Drought Impacts on Dryland Ecosystems",
-    journal: "Earth’s Future",
+    journal: "Earth's Future",
     year: "2024",
     rank: "中科院1区",
     link: "https://doi.org/10.1029/2023EF003977"
@@ -303,7 +303,7 @@ export const publications: PublicationInfo[] = [
   {
     authors: "An Qiang, Staal Arie, Liu Liu*, Cheng Yongming, Liu jing, Huang Guanhua",
     title: "Crops Feed Rain to Drylands in Northwest China",
-    journal: "Earth’s Future",
+    journal: "Earth's Future",
     year: "2024",
     rank: "中科院1区",
     link: "https://doi.org/10.1029/2024EF004791"
@@ -335,7 +335,7 @@ export const publications: PublicationInfo[] = [
   {
     authors: "An Qiang, Liu Liu*, Staal Arie, Yang Kun, Cheng Yongming, Liu Jing, Huang Guanhua",
     title: "Land cover changes redistribute China’s water resources through atmospheric moisture recycling",
-    journal: "Earth’s Future",
+    journal: "Earth's Future",
     year: "2025",
     rank: "中科院1区",
     link: "https://doi.org/10.1029/2024EF005565"

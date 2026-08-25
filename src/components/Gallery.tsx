@@ -33,7 +33,10 @@ const portfolioItems = [
     ],
     gallery: [
         "/gallery-5.jpg",
+        "/huiyi2.jpg",
         "/huiyi.jpg",
+        "/huiyi3.jpg",
+        "/huiyi4.jpg",
     ]
   },
   {
@@ -56,8 +59,6 @@ const portfolioItems = [
       "/drhd9.jpg",
       "/drhd10.jpg",
       "/drhd11.jpg",
-      "/drhd13.jpg",
-      "/drhd14.jpg",
       "/drhd15.jpg",
       "/drhd16.jpg",
       "/drhd18.jpg",
