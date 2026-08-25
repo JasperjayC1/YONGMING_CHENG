@@ -51,7 +51,6 @@ const portfolioItems = [
     ],
     gallery: [
       "/drhd2.jpg",
-      "/drhd3.jpg",
       "/drhd4.jpg",
       "/drhd5.jpg",
       "/drhd7.jpg",
