@@ -260,17 +260,16 @@ const Gallery = () => {
                       </h4>
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                         {selectedItem.gallery.map((img, idx) => (
-                          //<div key={idx} className="rounded-xl overflow-hidden bg-neutral-100 aspect-[4/3] shadow-sm">
-                           // <img src={img} alt={`${selectedItem.title} 附图 ${idx + 1}`} className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
-                          //</div>
-                          <div key={idx} className="rounded-xl overflow-hidden bg-neutral-100 shadow-sm">
-                              <img 
-                                  src={img} 
-                                  alt={`${selectedItem.title} 附图 ${idx + 1}`} 
-                                  className="w-full h-auto object-contain hover:scale-105 transition-transform duration-700" 
-                              />
+                          <div key={idx} className="rounded-xl overflow-hidden bg-neutral-100 aspect-[4/3] shadow-sm">
+                           <img src={img} alt={`${selectedItem.title} 附图 ${idx + 1}`} className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
                           </div>
-
+                          // <div key={idx} className="rounded-xl overflow-hidden bg-neutral-100 shadow-sm">
+                          //     <img 
+                          //         src={img} 
+                          //         alt={`${selectedItem.title} 附图 ${idx + 1}`} 
+                          //         className="w-full h-auto object-contain hover:scale-105 transition-transform duration-700" 
+                          //     />
+                          // </div>
                         ))}
                       </div>
                     </div>
