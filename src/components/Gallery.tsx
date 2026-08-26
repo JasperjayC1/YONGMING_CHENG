@@ -91,7 +91,7 @@ const portfolioItems = [
   },
   {
     id: "honors",
-    category: "专利与荣誉",
+    category: "奖状与荣誉",
     date: "2021 - 2025",
     title: "发明专利与奖学金证书",
     coverImage: "/zs1.jpg",
@@ -118,7 +118,20 @@ const portfolioItems = [
       "/zs16.jpg",
     ]
   },
-
+  {
+    id: "academic-positions",
+    category: "学术职务",
+    date: "2021 - 2025",
+    title: "学术期刊审稿人",
+    coverImage: "/sgr.jpg",
+    content: [
+      "担任国际顶级期刊《Journal of Hydrology》《Ecological Indicators》《Catena》的审稿人，参与同行评议工作，为学术交流与知识传播贡献力量。",
+    ],
+    gallery: [
+      "/sgr2.jpg",
+      "/sgr3.jpg",
+    ]
+  },
 ];
 
 const Gallery = () => {
